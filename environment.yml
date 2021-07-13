@@ -1,1 +1,12 @@
-dependencis:
+dependencies:
+    - Python=3
+    - pip:
+        - scipy
+        - numpy
+        - pandas 
+        - matplotlib 
+        - scikit-learn
+        - thinc
+        - ipykernel
+        - spacy
+        
